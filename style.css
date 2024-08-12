@@ -1,0 +1,24 @@
+.container {
+    height: 250px;
+    width: 250px;
+    display: inline-grid;
+    grid-template-columns: auto auto auto auto auto auto auto auto auto auto;
+}
+
+.child {
+    width: 93%;
+    height: 25px;
+    border: 1px solid black;
+    color: white;
+}
+
+.h1-box{
+    display: flex;
+    justify-content: center;
+}
+.container-box{
+    display: flex;
+    justify-content: center;
+}
+
+
